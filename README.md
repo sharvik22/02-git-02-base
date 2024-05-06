@@ -44,13 +44,16 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 * Нажмите «Сохранить изменения».
 
 ## Решение 1
-1.
+1. Регистрация
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/203fbd66-f577-445b-98fe-8937aa89dce5)
 
-2.
+2. Желательно назвать также, как и в GitHub — `devops-netology` и `visibility level`, выбрать `Public`
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/36c85394-4df6-4ee3-a452-93f019628a69)
 
-5.
+5. Перейдите на страницу созданного вами репозитория, URL будет примерно такой:
+https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагаемые варианты для начала работы в репозитории в секции
+`Command line instructions`.
+
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/9f4c42c2-b836-4c9c-9f35-e7fdd9a4da8e)
 
 
