@@ -47,6 +47,12 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 1.
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/203fbd66-f577-445b-98fe-8937aa89dce5)
 
+2.
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/36c85394-4df6-4ee3-a452-93f019628a69)
+
+
+
+
 
 ---
 
