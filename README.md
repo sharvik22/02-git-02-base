@@ -50,6 +50,10 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 2.
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/36c85394-4df6-4ee3-a452-93f019628a69)
 
+5.
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/9f4c42c2-b836-4c9c-9f35-e7fdd9a4da8e)
+
+
 
 
 
