@@ -169,7 +169,9 @@ https://github.com/sharvik22/devops-netology/tags
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/81b77772-cf03-4933-809f-39488a909827)
 
-Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network
+Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/sharvik22/devops-netology/network
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/91e5bc88-a1a7-4c11-b6a4-44cf793a0cb4)
+
 
 
 
