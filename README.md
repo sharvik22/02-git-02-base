@@ -60,7 +60,6 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 4. Добавиль пароль
 
-
 5. Перейдите на страницу созданного вами репозитория, URL будет примерно такой: https://gitlab.com/YOUR_LOGIN/devops-netology.
 Изучите предлагаемые варианты для начала работы в репозитории в секции Command line instructions.
 
@@ -101,7 +100,7 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ## Решение 2
 
-Gitlab
+### Gitlab
 
 1.Создайте легковестный тег `v0.0`
 
@@ -122,7 +121,7 @@ https://gitlab.com/my8585319/devops-netology/-/tags
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/db536e6f-3c08-432c-93c3-bade805e33c6)
 
-GitHub
+### GitHub
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/f89cdc16-7cb7-41ad-9d7b-462aff0a5b00)
 
