@@ -158,26 +158,29 @@ https://github.com/sharvik22/devops-netology/tags
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/9fdc6a26-48ac-44c9-99ed-79af94ad91f1)
 
 Выполните `git checkout` по хешу найденного коммита.
-
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/a560d2be-52ff-49eb-b3b6-b8b726ecbc81)
 
 Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`
-
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/ea57093e-eadf-4442-97e4-0ac275ea629d)
 
 Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.
-
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/81b77772-cf03-4933-809f-39488a909827)
 
 Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/sharvik22/devops-netology/network
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/91e5bc88-a1a7-4c11-b6a4-44cf793a0cb4)
 
 
+Теперь измените содержание файла `README.md`, добавив новую строчку
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/77bfecb6-787e-4d98-ba1b-54bff779ab47)
 
 
+Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/sharvik22/devops-netology/network
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/229e92fe-f10c-4040-b9a2-837efe0a5885)
+
+и как изменится вывод команды `git log`.
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/97d08e36-e601-481d-b7f5-4ce179fbdaf9)
 
 ---
-
 
 ## Задание 4. Упрощаем себе жизнь
 
