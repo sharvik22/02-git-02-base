@@ -45,6 +45,7 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ## Решение 1
 1. Регистрация
+   
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/0102803a-0f6c-416e-be2c-34b7429800b5)
 
 
