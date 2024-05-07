@@ -45,10 +45,27 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ## Решение 1
 1. Регистрация
-![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/203fbd66-f577-445b-98fe-8937aa89dce5)
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/0102803a-0f6c-416e-be2c-34b7429800b5)
 
-2. Желательно назвать также, как и в GitHub — `devops-netology` и `visibility level`, выбрать `Public`
-![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/36c85394-4df6-4ee3-a452-93f019628a69)
+
+2. После регистрации или авторизации в GitLab создайте новый проект, нажав на ссылку `Create a projet`. 
+Желательно назвать также, как и в GitHub — `devops-netology` и `visibility level`, выбрать `Public`.
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/c8f55f9e-249d-4f79-b71f-8f7e99f0dd77)
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/8a2a411d-a3ec-4f5c-b55d-6f2ffd395a77)
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/d940b77d-b6e0-4452-a5a9-3f96ca97fe76)
+
+3. Добавиль пароль
+
+
+4. Перейдите на страницу созданного вами репозитория, URL будет примерно такой: https://gitlab.com/YOUR_LOGIN/devops-netology.
+Изучите предлагаемые варианты для начала работы в репозитории в секции Command line instructions.
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/8abd6488-e611-4849-ad03-39a7de99869a)
+
+
 
 5. Перейдите на страницу созданного вами репозитория, URL будет примерно такой:
 https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагаемые варианты для начала работы в репозитории в секции
