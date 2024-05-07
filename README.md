@@ -201,6 +201,12 @@ https://github.com/sharvik22/devops-netology/tags
 
 ## Решение 4
 
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/397d2d22-290e-409a-b223-4b0b223e334e)
+
+
+
+
+
 ---
 
 *В качестве результата работы по всем заданиям приложите ссылки на ваши репозитории в GitHub, GitLab и Bitbucket*.  
