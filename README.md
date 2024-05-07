@@ -205,8 +205,7 @@ https://github.com/sharvik22/devops-netology/tags
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/b491f8c6-3f22-46fe-8593-c311b8e49925)
 
-
-
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/6b297343-7ee1-4286-a4da-2f9b96b713b7)
 
 ---
 
