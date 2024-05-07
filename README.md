@@ -159,9 +159,17 @@ https://github.com/sharvik22/devops-netology/tags
 
 Выполните `git checkout` по хешу найденного коммита.
 
-![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/72672d98-37d9-43bd-a268-ad311a0bb4ef)
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/a560d2be-52ff-49eb-b3b6-b8b726ecbc81)
 
 Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/ea57093e-eadf-4442-97e4-0ac275ea629d)
+
+Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/81b77772-cf03-4933-809f-39488a909827)
+
+Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network
 
 
 
