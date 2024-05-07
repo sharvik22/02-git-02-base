@@ -169,12 +169,11 @@ https://github.com/sharvik22/devops-netology/tags
 Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/sharvik22/devops-netology/network
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/91e5bc88-a1a7-4c11-b6a4-44cf793a0cb4)
 
-
 Теперь измените содержание файла `README.md`, добавив новую строчку
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/77bfecb6-787e-4d98-ba1b-54bff779ab47)
 
-
 Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/sharvik22/devops-netology/network
+
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/229e92fe-f10c-4040-b9a2-837efe0a5885)
 
 и как изменится вывод команды `git log`.
