@@ -66,13 +66,6 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/8abd6488-e611-4849-ad03-39a7de99869a)
 
-
-
-Т.к. я создал пустой репозиторий, то он не клонируется
-![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/57343e8b-04af-4fe6-9a1e-18cd795fccb7)
-
-добавил и удалил файл, чтобы появился коммит и сделал клонирование
-
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/0933a01e-f4ab-48ad-a234-89c94f671064)
 
 6. Запомните вывод команды git remote -v
