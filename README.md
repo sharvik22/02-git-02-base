@@ -119,6 +119,7 @@ Gitlab
 
 
 https://gitlab.com/my8585319/devops-netology/-/tags
+
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/db536e6f-3c08-432c-93c3-bade805e33c6)
 
 GitHub
@@ -131,6 +132,8 @@ GitHub
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/8c22021e-36c1-4225-8d11-50f27fdfd914)
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/7faeea30-a429-4541-b936-29693ad8ce2c)
+
+https://github.com/sharvik22/devops-netology/tags
 
 
 Разница в том, что у легковестного тега секция начинается с информации о коммите и нет секции о теги, а у аннотированаго есть есть секция о теги. Он содержит больше информации (автор, время, комментарий). 
