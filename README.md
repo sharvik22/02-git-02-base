@@ -108,6 +108,37 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ## Решение 2
 
+1.Создайте легковестный тег `v0.0`
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/e27a5210-d4ad-4e76-8dc0-65f4964a8559)
+
+2.Аналогично создайте аннотированный тег `v0.1`
+
+Gitlab
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/92c381eb-69cd-43bf-bd4b-40d9e1525e17)
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/28cc33b4-bca9-4cfb-9920-f336235d31bc)
+
+пушим теги
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/8ee6a96e-f835-4e15-9f45-2668aeacd9bd)
+
+
+https://gitlab.com/my8585319/devops-netology/-/tags
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/db536e6f-3c08-432c-93c3-bade805e33c6)
+
+GitHub
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/f89cdc16-7cb7-41ad-9d7b-462aff0a5b00)
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/c7b0454c-fb9a-4d8f-9253-9b7d93395daf)
+
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/8c22021e-36c1-4225-8d11-50f27fdfd914)
+
+
+
 ---
 
 ## Задание 3. Ветки 
