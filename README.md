@@ -108,13 +108,13 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ## Решение 2
 
+Gitlab
+
 1.Создайте легковестный тег `v0.0`
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/e27a5210-d4ad-4e76-8dc0-65f4964a8559)
 
 2.Аналогично создайте аннотированный тег `v0.1`
-
-Gitlab
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/92c381eb-69cd-43bf-bd4b-40d9e1525e17)
 
@@ -136,8 +136,6 @@ GitHub
 
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/8c22021e-36c1-4225-8d11-50f27fdfd914)
-
-
 
 ---
 
