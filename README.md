@@ -154,6 +154,18 @@ https://github.com/sharvik22/devops-netology/tags
 
 ## Решение 3
 
+Посмотрите лог коммитов и найдите хеш коммита с названием `Prepare to delete and move`, который был создан в пределах предыдущего домашнего задания.
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/9fdc6a26-48ac-44c9-99ed-79af94ad91f1)
+
+Выполните `git checkout` по хешу найденного коммита.
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/72672d98-37d9-43bd-a268-ad311a0bb4ef)
+
+Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`
+
+
+
+
 ---
 
 
