@@ -58,28 +58,39 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/d940b77d-b6e0-4452-a5a9-3f96ca97fe76)
 
-3. Добавиль пароль
+4. Добавиль пароль
 
 
-4. Перейдите на страницу созданного вами репозитория, URL будет примерно такой: https://gitlab.com/YOUR_LOGIN/devops-netology.
+5. Перейдите на страницу созданного вами репозитория, URL будет примерно такой: https://gitlab.com/YOUR_LOGIN/devops-netology.
 Изучите предлагаемые варианты для начала работы в репозитории в секции Command line instructions.
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/8abd6488-e611-4849-ad03-39a7de99869a)
 
 
 
-5. Перейдите на страницу созданного вами репозитория, URL будет примерно такой:
-https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагаемые варианты для начала работы в репозитории в секции
-`Command line instructions`.
+Т.к. я создал пустой репозиторий, то он не клонируется
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/57343e8b-04af-4fe6-9a1e-18cd795fccb7)
 
-![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/9f4c42c2-b836-4c9c-9f35-e7fdd9a4da8e)
+добавил и удалил файл, чтобы появился коммит и сделал клонирование
 
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/0933a01e-f4ab-48ad-a234-89c94f671064)
 
+6. Запомните вывод команды git remote -v
 
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/85522c76-b4db-4b38-a042-45f03cc679be)
 
-![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/18e871fc-0e86-404c-b426-7dc2ac6d01c8)
+7. Из-за того, что это будет наш дополнительный репозиторий, ни один вариант из перечисленных в инструкции (на странице вновь созданного репозитория) нам не подходит. Поэтому добавляем этот репозиторий, как дополнительный remote,
+к созданному репозиторию в рамках предыдущего домашнего задания: git remote add gitlab https://gitlab.com/YOUR_LOGIN/devops-netology.git.
 
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/3510ffc4-9d59-4bcf-9318-5ea0a39ba7db)
 
+8. Отправьте изменения в новый удалённый репозиторий git push -u gitlab main.
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/a7e9e23a-3c52-4a8c-b4be-ae518a50d3ef)
+
+9. Обратите внимание, как изменился результат работы команды git remote -v.
+
+![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/9209169b-2f9e-44c4-8901-08eaf763d1f7)
 
 ---
 
