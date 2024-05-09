@@ -60,7 +60,7 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 
 4. Добавиль пароль
 
-5. Перейдите на страницу созданного вами репозитория, URL будет примерно такой: https://gitlab.com/YOUR_LOGIN/devops-netology.
+5. Перейдите на страницу созданного вами репозитория, URL будет примерно такой: https://gitlab.com/my8585319/devops-netology
 Изучите предлагаемые варианты для начала работы в репозитории в секции Command line instructions.
 
 ![image](https://github.com/sharvik22/02-git-02-base/assets/136818757/8abd6488-e611-4849-ad03-39a7de99869a)
